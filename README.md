@@ -394,4 +394,4 @@ You can copy the block above into a `requirements.txt` file (see next section).
   - Maintains `thread_id` and conversation state
   - Handles both normal messages and interrupt/approval flows
 
-This README plus the `requirements.txt` should be enough for someone to understand and run your project in simple terms.
+
